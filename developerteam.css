@@ -1,0 +1,48 @@
+.Developer-team{
+    margin: auto;
+    justify-content: center;
+    width: 80%;
+    padding-bottom: 15px;
+    /* border: 2px solid black; */
+}
+.Developer-team h2{
+    margin-top: 25px;
+    background-color: #A83FA8;
+    width: 30%;
+    text-align: center;
+    margin: 20px auto;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    color: white;
+
+}
+.dev-team-details .firstrowdev{
+    margin-left: 25px;
+    display: flex;
+    margin-top: 50px;
+    gap: 60px;
+    justify-content: center;
+}
+.dev-team-details .secondrowdev{
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+    margin-top: 25px;
+    gap: 60px;
+    padding-bottom: 10px;
+    justify-content: center;
+}
+.dev-team-details p{
+    color: #A83FA8;
+    text-align: center;
+    font-style: italic;
+    width: 9rem; 
+    font-size: 0.87rem;   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Developer-team img{
+    margin-left: 15px;
+    height: 100px;
+    width: 100px;
+}

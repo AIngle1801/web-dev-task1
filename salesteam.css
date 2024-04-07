@@ -1,0 +1,46 @@
+.Marketing-team{
+    margin: auto;
+    justify-content: center;
+    width: 80%;
+    /* border: 2px solid black; */
+}
+.Marketing-team h2{
+    background-color: #A83FA8;
+    width: 35%;
+    text-align: center;
+    margin: 50px auto;
+    border-radius: 10px;
+    font-size: 1.5rem;
+    color: white;
+
+}
+.marketing-team-details .firstrowmarketing{
+    margin-left: 25px;
+    display: flex;
+    margin-top: 40px;
+    gap: 60px;
+    justify-content: center;
+}
+.marketing-team-details .secondrowmarketing{
+    margin-top: 10px;
+    margin-left: 30px;
+    display: flex;
+    margin-top: 25px;
+    gap: 60px;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.marketing-team-details p{
+    color: #A83FA8;
+    text-align: center;
+    font-style: italic;
+    width: 9rem; 
+    font-size: 0.87rem;   
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.Marketing-team img{
+    margin-left: 15px;
+    height: 100px;
+    width: 100px;
+}
